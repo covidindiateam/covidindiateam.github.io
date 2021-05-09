@@ -29,70 +29,70 @@ casirivimab and imdevimab, trade name: REGN-COV2 and made by Regeneron Pharmaceu
 
 
 ## Covid Testing sites
-[](https://www.icmr.gov.in/pdf/covid/labs/archive/COVID_Testing_Labs_28042021.pdf)
+<https://www.icmr.gov.in/pdf/covid/labs/archive/COVID_Testing_Labs_28042021.pdf>
 
 ## Track Vaccinations
-[](https://geographicinsights.iq.harvard.edu/IndiaVaccine)
+<https://geographicinsights.iq.harvard.edu/IndiaVaccine>
 
 # Resources
 
 ## Bengalru
-[](https://covidbengaluru.com/)
+<https://covidbengaluru.com/>
 
 ## Delhi
 
 ### Beds
-[](https://dshm.delhi.gov.in/mis/(S(ubqejlxuy0y50aowcrdaimg3))/Private/frmFreeBedMonitoringReport.aspx)
+<https://dshm.delhi.gov.in/mis/(S(ubqejlxuy0y50aowcrdaimg3>>/Private/frmFreeBedMonitoringReport.aspx>
 
 ### Gurudwara
 
 Gurudwara Rakabganj Sahib (Delhi) ready with 250 Oxygen Beds. Contact No: 09818883337
 
 ## Attempts for real-time tracking of resources
-* [](https://bhiksha.github.io/IndiaCovidResources/)
-* [](https://www.covidsos.live/app/index.html)
-* [](https://covidbedsindia.in/)
-* [](https://indiacovidresources.in/)
+* <https://bhiksha.github.io/IndiaCovidResources/>
+* <https://www.covidsos.live/app/index.html>
+* <https://covidbedsindia.in/>
+* <https://indiacovidresources.in/>
 
 ## Various COVID-19-related pan-India resources maintained by IIM-A 1992 
-[](https://docs.google.com/spreadsheets/u/0/d/15VMySHSAQAAcxx-QBtxG5o-mJYeVMdVhtgCu0H5J_CA/htmlview#)
+<https://docs.google.com/spreadsheets/u/0/d/15VMySHSAQAAcxx-QBtxG5o-mJYeVMdVhtgCu0H5J_CA/htmlview#>
 
 ## Covid India - beds, hospitals, plasma, etc.
-[](https://covidtelangana.com/)
+<https://covidtelangana.com/>
 
 ## covidresourcesindia
-[](https://www.covidresourcesindia.com/)
+<https://www.covidresourcesindia.com/>
 
 ## Path
-[](https://www.path.org/p/covid-19-response/)
+<https://www.path.org/p/covid-19-response/>
 
 ## Seattle engineer created hub for Covid resources
-[](https://www.uktimenews.com/a-seattle-software-engineer-wanted-to-help-his-parents-she-has-created-a-hub-for-covid-resources-across-india/)
+<https://www.uktimenews.com/a-seattle-software-engineer-wanted-to-help-his-parents-she-has-created-a-hub-for-covid-resources-across-india/>
 
 ## IITD live tracking of Covid Resources
 such as vacant hospital beds in your city, oxygen availability, plasma, videos by renowned doctors, etc.
 
-[](https://covidrelief.glideapp.io/)
+<https://covidrelief.glideapp.io/>
 
 ## Task Force Twitter Handle and domain
 covidindiateam
 
-[](https://www.covidindiateam.com) 
+<https://www.covidindiateam.com> 
 
 ## List of online COVID-19 resources, India from government
-[](https://www.digit.in/news/general/online-covid-19-resources-hospital-beds-medicines-oxygen-supply-59297.html)
+<https://www.digit.in/news/general/online-covid-19-resources-hospital-beds-medicines-oxygen-supply-59297.html>
 
 ## Google Doc with Covid Resources
 Relevant Google Doc with List of COVID related resources like Oxygen and Hospital & Beds etc. across India:
 
-[](https://docs.google.com/spreadsheets/u/0/d/1ZmTJVfJvpjaMWs0NUalVXMbSOr6DrdmXvX51RxTDUNY/htmlview#)
+<https://docs.google.com/spreadsheets/u/0/d/1ZmTJVfJvpjaMWs0NUalVXMbSOr6DrdmXvX51RxTDUNY/htmlview#>
 
 
 # Free U.S Doctors Consultations
 
 An effort by American Association of Physicians of Indian Origin and Sewa International.  Patients from any part of India can get face to face free consultation with doctors, regarding COVID, by signing up through the link above.  This is an effort to relieve the strain on Indian medical system.
 
-[](https://eglobaldoctors.com/#/)
+<https://eglobaldoctors.com/#/>
 
 # Daily Calls
 
@@ -104,7 +104,7 @@ One tap mobile:
 
 US: +14086380968,,96360349420#,,,,*525396# or +16699006833,,96360349420#,,,,*525396#
 
-Meeting URL: [](https://f5networks.zoom.us/j/96360349420?pwd=dk9vd2JKVjBYVG5xRVdzYm4xcGJlUT09)
+Meeting URL: <https://f5networks.zoom.us/j/96360349420?pwd=dk9vd2JKVjBYVG5xRVdzYm4xcGJlUT09>
 
 Meeting ID:
 
@@ -116,67 +116,67 @@ Passcode:
 
 ## Other Info
 
-We will have daily zoom calls starting today 730pm PST, i.e. 8am IST starting Tues May 4 (india time) - zoom link to join is [](https://tiny.cc/iitcvteam) - those who can help and need help - please both groups come
+We will have daily zoom calls starting today 730pm PST, i.e. 8am IST starting Tues May 4 (india time> - zoom link to join is <https://tiny.cc/iitcvteam> - those who can help and need help - please both groups come
 
 # Get Masks, PPE in India
-[](https://www.amazon.in/Kawach-Start-up-Reusable-Washable-protective/dp/B08944XVZR)
+<https://www.amazon.in/Kawach-Start-up-Reusable-Washable-protective/dp/B08944XVZR>
 
 # Oxygen
 
 ## Oxygen Supply Chain List
-[](https://github.com/hesingh/iitcovidtaskforce/blob/master/Oxygen-supply-chain-list.pdf)
+<https://github.com/hesingh/iitcovidtaskforce/blob/master/Oxygen-supply-chain-list.pdf>
 
 ## Yet More concentrator Order info
-* [](https://www.cpapdirect.com/oxygen-concentrators/philips-respironics-simplygo-portable-oxygen-concentrator)
-* [](https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g5-portable-oxygen-concentrator-16-cell-battery)
-* [](https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g4-portable-oxygen-concentrator-8-cell-double-life-battery)
-* [](https://www.cpapdirect.com/oxygen-concentrators/caire-companion-5-eco-oxygen-concentrator-5-lpm)
-* [](https://www.cpapdirect.com/oxygen-concentrators/caire-sequal-eclipse-5-portable-oxygen-concentrator)
-* [](https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g3-portable-oxygen-concentrator-8-cell)
-* [](https://www.cpapdirect.com/oxygen-concentrators/precision-medical-easypulse-poc-3)
-* [](https://www.cpapdirect.com/oxygen-concentrators/caire-freestyle-comfort-portable-concentrator-8-cell-battery-1)
-* [](https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g4-portable-oxygen-concentrator-4-cell-battery)
-* [](https://www.cpapdirect.com/oxygen-concentrators/caire-freestyle-comfort-portable-concentrator-16-cell-battery-1)
-* [](https://www.cpapdirect.com/oxygen-concentrators/caire-freestyle-comfort-portable-concentrator-two-8-cell-batteries)
-* [](https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g4-portable-oxygen-concentrator-bundle-two-8-cell-batteries-and-charger)
-* [](https://www.cpapdirect.com/oxygen-concentrators/caire-freestyle-comfort-portable-concentrator-bundle-two-8-cell-batteries-and-external-charger)
-* [](https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g4-portable-oxygen-concentrator-bundle-two-8-cell-batteries)
-* [](https://www.cpapdirect.com/oxygen-concentrators/philips-respironics-simplygo-mini-portable-oxygen-concentrator)
-* [](https://www.cpapdirect.com/oxygen-concentrators/philips-respironics-simplygo-portable-oxygen-concentrator-floor-model)
-* [](https://www.respshop.com/oxygen-concentrators/portable/philips-respironics-simplygo-mini-portable-oxygen-concentrator-p-1016.html)
-* [](https://www.respshop.com/oxygen-concentrators/portable/philips-respironics-simplygo-portable-oxygen-concentrator-p-664.html)
-* [](https://www.directhomemedical.com/everflo-q-oxygen-concentrator-philips-respironics.html)
+* <https://www.cpapdirect.com/oxygen-concentrators/philips-respironics-simplygo-portable-oxygen-concentrator>
+* <https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g5-portable-oxygen-concentrator-16-cell-battery>
+* <https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g4-portable-oxygen-concentrator-8-cell-double-life-battery>
+* <https://www.cpapdirect.com/oxygen-concentrators/caire-companion-5-eco-oxygen-concentrator-5-lpm>
+* <https://www.cpapdirect.com/oxygen-concentrators/caire-sequal-eclipse-5-portable-oxygen-concentrator>
+* <https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g3-portable-oxygen-concentrator-8-cell>
+* <https://www.cpapdirect.com/oxygen-concentrators/precision-medical-easypulse-poc-3>
+* <https://www.cpapdirect.com/oxygen-concentrators/caire-freestyle-comfort-portable-concentrator-8-cell-battery-1>
+* <https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g4-portable-oxygen-concentrator-4-cell-battery>
+* <https://www.cpapdirect.com/oxygen-concentrators/caire-freestyle-comfort-portable-concentrator-16-cell-battery-1>
+* <https://www.cpapdirect.com/oxygen-concentrators/caire-freestyle-comfort-portable-concentrator-two-8-cell-batteries>
+* <https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g4-portable-oxygen-concentrator-bundle-two-8-cell-batteries-and-charger>
+* <https://www.cpapdirect.com/oxygen-concentrators/caire-freestyle-comfort-portable-concentrator-bundle-two-8-cell-batteries-and-external-charger>
+* <https://www.cpapdirect.com/oxygen-concentrators/inogen-one-g4-portable-oxygen-concentrator-bundle-two-8-cell-batteries>
+* <https://www.cpapdirect.com/oxygen-concentrators/philips-respironics-simplygo-mini-portable-oxygen-concentrator>
+* <https://www.cpapdirect.com/oxygen-concentrators/philips-respironics-simplygo-portable-oxygen-concentrator-floor-model>
+* <https://www.respshop.com/oxygen-concentrators/portable/philips-respironics-simplygo-mini-portable-oxygen-concentrator-p-1016.html>
+* <https://www.respshop.com/oxygen-concentrators/portable/philips-respironics-simplygo-portable-oxygen-concentrator-p-664.html>
+* <https://www.directhomemedical.com/everflo-q-oxygen-concentrator-philips-respironics.html>
 * []https://www.directhomemedical.com/simplygo-portable-oxygen-concentrator-respironics.html
-* [](https://www.directhomemedical.com/simplygo-mini-portable-oxygen-concentrator-philips.html)
+* <https://www.directhomemedical.com/simplygo-mini-portable-oxygen-concentrator-philips.html>
 
 Here is the link to the doc I am updating. Refer to the "OC Mfrs, Dealers" tab: 
 
-[](https://docs.google.com/spreadsheets/d/1poxVD903GEN2XBnKneu4ay_fJEpjBbbE_HNsSond-A8/edit?usp=sharing)
+<https://docs.google.com/spreadsheets/d/1poxVD903GEN2XBnKneu4ay_fJEpjBbbE_HNsSond-A8/edit?usp=sharing>
 
 # Two Specifc Concentrators with 240V 
 
-[](https://www.indiamart.com/proddetail/oxygen-concentrator-20459543533.html)
+<https://www.indiamart.com/proddetail/oxygen-concentrator-20459543533.html>
 
-[](https://www.indiamart.com/proddetail/jumao-5l-high-purity-portable-oxygen-concentrator-23360410491.html)
+<https://www.indiamart.com/proddetail/jumao-5l-high-purity-portable-oxygen-concentrator-23360410491.html>
 
 ## New
 
-[](https://tinyurl.com/3jbx44z9)
+<https://tinyurl.com/3jbx44z9>
 
-[](https://tinyurl.com/4uymuz4e)
+<https://tinyurl.com/4uymuz4e>
 
-[](https://www.ebay.com/b/Oxygen-Concentrators/155667/bn_52461177)
+<https://www.ebay.com/b/Oxygen-Concentrators/155667/bn_52461177>
 
 ## Old
-[](https://www.oxygendirect.com/home-oxygen/caire-companion-5-eco-oxygen-concentrator-5-lpm)
+<https://www.oxygendirect.com/home-oxygen/caire-companion-5-eco-oxygen-concentrator-5-lpm>
 
 ## Medical Oxygen
 
-[](https://www.indiacovidresponse.com/medical-oxygen)
+<https://www.indiacovidresponse.com/medical-oxygen>
 
 # Plasma
 
-[](https://plasmaconnect.typeform.com/to/PTLWuDIo)
+<https://plasmaconnect.typeform.com/to/PTLWuDIo>
 
 # Hospital Beds
 
@@ -184,87 +184,87 @@ Hospital Bed Availability Online: How to Check Vacant Beds Availability Online i
 
 Gurgaon
 
-[](http://covidggn.com/()
+<http://covidggn.com/(>
 
 Delhi
 
-[](https://coviddelhi.com)
+<https://coviddelhi.com>
 
 Thane
 
-[](https://covidthane.org/availabiltyOfHospitalBeds.html)
+<https://covidthane.org/availabiltyOfHospitalBeds.html>
 
 Bengaluru
 
-[](https://covidbengaluru.com/)
+<https://covidbengaluru.com/>
 
 Andhra Pradesh
 
-[](https://covidaps.com)
+<https://covidaps.com>
 
 Telangana
 
-[](https://covidtelangana.com)
+<https://covidtelangana.com>
 
 West Bengal
 
-[](https://covidwb.com)
+<https://covidwb.com>
 
 Pune
 
-[](https://covidpune.com)
+<https://covidpune.com>
 
 Ahmedabad
 
-[](https://covidamd.com)
+<https://covidamd.com>
 
-[](https://ahna.org.in/covid19.html)
+<https://ahna.org.in/covid19.html>
 
 Vadodara
 
-[](https://covidbaroda.com)
+<https://covidbaroda.com>
 
 Nagpur
 
-[](http://nsscdcl.org/covidbeds/AvailableHospitals.jsp)
+<http://nsscdcl.org/covidbeds/AvailableHospitals.jsp>
 
 Nasik
 
-[](https://covidnashik.com)
+<https://covidnashik.com>
 
 Madhya Pradesh
 
-[](https://covidmp.com)
+<https://covidmp.com>
 
 Uttar Pradesh
 
-[](http://dgmhup.gov.in/en/CovidReport)
+<http://dgmhup.gov.in/en/CovidReport>
 
 Rajasthan
 
-[](https://covidinfo.rajasthan.gov.in/COVID19HOSPITALBEDSSTATUSSTATE.aspx)
+<https://covidinfo.rajasthan.gov.in/COVID19HOSPITALBEDSSTATUSSTATE.aspx>
 
 Bhopal
 
-[](https://bhopalcovidbeds.in/)
+<https://bhopalcovidbeds.in/>
 
 Haryana
 
-[](https://coronaharyana.in/)
+<https://coronaharyana.in/>
 
 Tamil Nadu
 
-[](https://covidtnadu.com)
+<https://covidtnadu.com>
 
-[](https://stopcorona.tn.gov.in/beds.php)
+<https://stopcorona.tn.gov.in/beds.php>
 
 Maharashtra:
 
-[]https://covidbeed.com
+<https://covidbeed.com>
 
 Gandhinagar, Gujarat:
 
-[](https://covidgandhinagar.com)
+<https://covidgandhinagar.com>
 
 # Charter
 
