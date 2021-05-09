@@ -3,7 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home: Content of this page is a Markdown repo to collect curated info from IITCovidTaskForce Slack channel.  Please see the website: https://covidindiateam.com
+title: Home: 
+
+Contents on this page is a Markdown repo to collect curated info from IITCovidTaskForce Slack channel.  Please see better organized content at <https://covidindiateam.com>
+
 ---
 
 # Tested positive or suspect Covid?
