@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Our mission is to save lives.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We are a team of volunteers from different walks of life with varied experiences, diverse skills but with a common mission of saving lives during the current COVID-19 surge in India.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Our charter evolves as we identify areas that are critical to our mission. At present, it includes but is not limited to the following:
 
 
-[jekyll-organization]: https://github.com/jekyll
+
