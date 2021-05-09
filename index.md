@@ -5,6 +5,7 @@
 layout: home
 title: Home: 
 
+#Note
 Contents on this page is a Markdown repo to collect curated info from IITCovidTaskForce Slack channel.  Please see better organized content at <https://covidindiateam.com>
 
 ---
