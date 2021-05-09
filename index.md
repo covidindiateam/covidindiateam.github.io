@@ -6,9 +6,6 @@ layout: home
 title: Home
 ---
 
-# Note 
-Anyone reading this page is welcome to share the page and repo with anyone.
-
 # Tested positive or suspect Covid?
 
 ## AIIMS, Delhi Covid Guide
@@ -35,6 +32,24 @@ casirivimab and imdevimab, trade name: REGN-COV2 and made by Regeneron Pharmaceu
 <https://geographicinsights.iq.harvard.edu/IndiaVaccine>
 
 # Resources
+
+SEWA INTERNATIONAL CONTACT NUMBERS FOR HELP IN INDIA FOR OXYGEN CONCENTRATORS, HOSPITAL BEDS ETC.
+
+1. New Delhi: +91-11-43007650
+
+2. Uttarakhand (Chamoli): 01363-247305
+
+3. Karnataka (Bengaluru): +91-9845826608
+
+4. Telangana (Hyderabad): +91-8374022393
+
+5. Tripura (North Tripura): +91-8628951028
+
+6. Maharashtra:
+
+Mumbai: 022-26189779
+
+Pune: +91-7387772777, +91-9763976373
 
 ## Bengalru
 <https://covidbengaluru.com/>
