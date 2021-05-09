@@ -3,10 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
-
-#Note
- Content on this page is a Markdown repo to collect curated info from the IITCovidTaskForce Slack channel.  Please see more organized content at <https://covidindiateam.com>
 
 # Tested positive or suspect Covid?
 
@@ -64,10 +62,6 @@ Pune: +91-7387772777, +91-9763976373
 ### Gurudwara
 
 Gurudwara Rakabganj Sahib (Delhi) ready with 250 Oxygen Beds. Contact No: 09818883337
-
-## Tamil Nadu
-
-https://tncovidbeds.tnega.org/
 
 ## Attempts for real-time tracking of resources
 * <https://bhiksha.github.io/IndiaCovidResources/>
