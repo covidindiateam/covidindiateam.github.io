@@ -21,9 +21,9 @@
 title: Welcome to Covid India Team
 email: savelives@covidindiateam.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We are a team of volunteers from different walks of life with varied
+  experiences, diverse skills but with a common mission of saving lives
+  during the current COVID-19 surge in India.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: GFM
