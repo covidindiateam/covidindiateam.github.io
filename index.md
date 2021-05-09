@@ -5,7 +5,8 @@
 layout: home
 ---
 
----
+#Note
+ Content on this page is a Markdown repo to collect curated info from the IITCovidTaskForce Slack channel.  Please see more organized content at <https://covidindiateam.com>
 
 # Tested positive or suspect Covid?
 
