@@ -63,6 +63,10 @@ Pune: +91-7387772777, +91-9763976373
 
 Gurudwara Rakabganj Sahib (Delhi) ready with 250 Oxygen Beds. Contact No: 09818883337
 
+## Tamil Nadu
+
+https://tncovidbeds.tnega.org/
+
 ## Attempts for real-time tracking of resources
 * <https://bhiksha.github.io/IndiaCovidResources/>
 * <https://www.covidsos.live/app/index.html>
