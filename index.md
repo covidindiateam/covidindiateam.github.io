@@ -106,7 +106,13 @@ Relevant Google Doc with List of COVID related resources like Oxygen and Hospita
 <https://docs.google.com/spreadsheets/u/0/d/1ZmTJVfJvpjaMWs0NUalVXMbSOr6DrdmXvX51RxTDUNY/htmlview#>
 
 
-# Free U.S Doctors Consultations
+# Free Doctors Consultations
+
+## India
+
+https://esanjeevaniopd.in/
+
+## U.S.
 
 An effort by American Association of Physicians of Indian Origin and Sewa International.  Patients from any part of India can get face to face free consultation with doctors, regarding COVID, by signing up through the link above.  This is an effort to relieve the strain on Indian medical system.
 
