@@ -54,6 +54,10 @@ Mumbai: 022-26189779
 
 Pune: +91-7387772777, +91-9763976373
 
+## Stanford University Resources
+
+https://globalhealth.stanford.edu/covid-19/resources-for-the-covid-19-crisis-in-india.html/
+
 ## Bengalru
 <https://covidbengaluru.com/>
 
