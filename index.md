@@ -41,7 +41,7 @@ casirivimab and imdevimab, trade name: REGN-COV2 and made by Regeneron Pharmaceu
 
 ## Salesforce Covid Resources
 
-<bit.ly/CovidCareResources>
+<https://public.tableau.com/views/CovidHelp/Search?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no>
 
 ## SEWA INTERNATIONAL
 
