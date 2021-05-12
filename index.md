@@ -39,6 +39,12 @@ casirivimab and imdevimab, trade name: REGN-COV2 and made by Regeneron Pharmaceu
 
 # Resources
 
+## Salesforce Covid Resources
+
+<bit.ly/CovidCareResources>
+
+## SEWA INTERNATIONAL
+
 SEWA INTERNATIONAL CONTACT NUMBERS FOR HELP IN INDIA FOR OXYGEN CONCENTRATORS, HOSPITAL BEDS ETC.
 
 1. New Delhi: +91-11-43007650
