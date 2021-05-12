@@ -66,7 +66,7 @@ Pune: +91-7387772777, +91-9763976373
 <https://tinyurl.com/rvsptbv3>
 
 ### Beds
-<https://dshm.delhi.gov.in/mis/(S(ubqejlxuy0y50aowcrdaimg3>>/Private/frmFreeBedMonitoringReport.aspx>
+<https://dshm.delhi.gov.in/mis/(S(fguqx4jzpmoct1tlkivbsynv))/Private/frmFreeBedMonitoringReport.aspx>
 
 ### Gurudwara
 
