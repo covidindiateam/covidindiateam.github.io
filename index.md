@@ -63,6 +63,10 @@ Mumbai: 022-26189779
 
 Pune: +91-7387772777, +91-9763976373
 
+## South India Resource
+
+<https://docs.google.com/spreadsheets/d/e/2PACX-1vRR1glENQvCEZN8H7PzCq3bjSr2bQIIodVOd2kPmGy-wD0JMIFTHXVj8eLr0gW0Ya9UAO7Fti6XTUiz/pubhtml?gid=1355413940&single=true>
+
 ## Stanford University Resources
 <https://globalhealth.stanford.edu/covid-19/resources-for-the-covid-19-crisis-in-india.html/>
 
