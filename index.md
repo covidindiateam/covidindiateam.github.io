@@ -29,7 +29,7 @@ casirivimab and imdevimab, trade name: REGN-COV2 and made by Regeneron Pharmaceu
 
 ### Remdesivir Distributors
 
-<https://github.com/covidindiateam/covidindiateam.github.io/blob/main/Remdesivir-Distributor-List.pdf>
+![](https://raw.githubusercontent.com/covidindiateam/covidindiateam.github.io/blob/main/Remdesivir-Distributor-List.pdf)
  
 ## Covid Testing sites
 <https://www.icmr.gov.in/pdf/covid/labs/archive/COVID_Testing_Labs_28042021.pdf>
