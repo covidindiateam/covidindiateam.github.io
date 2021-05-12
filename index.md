@@ -27,7 +27,10 @@ bamlanivimab and etesevimab made by Lilly (a pharma company)
 
 casirivimab and imdevimab, trade name: REGN-COV2 and made by Regeneron Pharmaceuticals
 
+### Remdesivir Distributors
 
+<https://github.com/covidindiateam/covidindiateam.github.io/blob/main/Remdesivir-Distributor-List.pdf>
+ 
 ## Covid Testing sites
 <https://www.icmr.gov.in/pdf/covid/labs/archive/COVID_Testing_Labs_28042021.pdf>
 
