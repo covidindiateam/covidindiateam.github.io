@@ -171,6 +171,16 @@ Passcode:
 
 We will have daily zoom calls starting today 730pm PST, i.e. 8am IST starting Tues May 4 (india time> - zoom link to join is <https://tiny.cc/iitcvteam> - those who can help and need help - please both groups come
 
+# Plasma
+
+## Plasma Donors Link
+
+<https://www.dhoondh.com>
+<https://www.pintnetwork.com>
+<https://www.needplasma.in>
+<https://www.covidplasma.online>
+<https://www.indianhelpline.com>
+
 # Get Masks, PPE in India
 <https://www.amazon.in/Kawach-Start-up-Reusable-Washable-protective/dp/B08944XVZR>
 
