@@ -57,11 +57,16 @@ SEWA INTERNATIONAL CONTACT NUMBERS FOR HELP IN INDIA FOR OXYGEN CONCENTRATORS, H
 
 5. Tripura (North Tripura): +91-8628951028
 
-6. Maharashtra:
+6. Maharashtra:Jamshedpur. Souvik Saha, people for change :  +91 93868 19379
+
 
 Mumbai: 022-26189779
 
 Pune: +91-7387772777, +91-9763976373
+
+## Jamshedpur
+
+Souvik Saha, people for change :  +91 938-681-9379
 
 ## South India Resources
 
