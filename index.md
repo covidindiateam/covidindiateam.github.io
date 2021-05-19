@@ -199,28 +199,6 @@ We will have daily zoom calls starting today 730pm PST, i.e. 8am IST starting Tu
 
 # Oxygen
 
-## Sports365, oxygen cylinders service
-
-We at Sports365 will provide the cylinders in following cities within 24-30 hours:
-1. Bangalore
-3. Delhi (NCR included).
-5. Chennai.
-7. Mumbai.
-9. Jaipur.
-10. Chandigarh.
-11. Pune.
-12. Nagpur.
-13. Ajmer..
-14. Lucknow.
-15. Jodhpur.
-16. 16. Mysore.
-17. Vijayvada.
-18. Vizag.
-Thanks and Regards,
-Ashish Bhiwani
-ashish@sports365.in
-9986966909, 6304495317
-
 ## Oxygen Supply Chain List
 <https://github.com/hesingh/iitcovidtaskforce/blob/master/Oxygen-supply-chain-list.pdf>
 
